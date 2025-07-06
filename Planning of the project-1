@@ -1,0 +1,13 @@
+Planning of the project
+First we can build our UI part
+
+After that we will add functionality for them
+
+
+
+Props
+Props is a way to pass data from parent component to the child component. In props we can pass any type of data like string, number, boolean, array, object or even functions.
+
+So for passing the props, in component we add attribute with any name then we can pass our value in it.
+
+Now for getting the props value, we can pass props as parameter in the child component function. Remember this props is object. So we have to write props.tagName
